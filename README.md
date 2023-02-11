@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -74,7 +74,7 @@ nav a:visited{
         </fieldset>
     </p> </div> <hr>
     <p  >
-        <fieldset style="background-color:rgb(192, 182, 182); width: 33cm; text-align: center; ">
+        <fieldset style="background-color:rgb(192, 182, 182); width: 28cm; text-align: center; ">
             <legend> <h2 style="background-color: yellow; width: 2cm; ">Sushi</h2> </legend>
              <p style="margin: 0;"  >Lorem ipsum dolor sit amet consectetur 
               adipisicing elit. Temporibus eos nostrum 
